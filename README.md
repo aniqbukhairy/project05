@@ -1,5 +1,5 @@
-# project05
-Simple docker compose project written in PHP
+# ninjaportal
+Simple project written in PHP
 
 project05/
 ├── backend/
