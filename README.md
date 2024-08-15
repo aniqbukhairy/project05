@@ -1,5 +1,6 @@
 # ninjaportal
-Simple project written in PHP
+
+Ninja Portal project written in PHP
 
 project05/
 ├── backend/
